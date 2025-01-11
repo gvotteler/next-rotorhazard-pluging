@@ -10,7 +10,7 @@ Send on real time data about the current lap times to Next App (Android / iOS) a
 
 Important!
 
-Remember that the Next plugin for RH requires you to have the Next Local Server running on your laptop. This is the component that enables interaction between RH and Next cloud servers. If you don’t have it yet, check out this link for more information: http://go-next.co/ or file:///Users/gunthervotteler/Documents/Landing/nls.html.
+Remember that the Next plugin for RH requires you to have the Next Local Server running on your laptop. This is the component that enables interaction between RH and Next cloud servers. If you don’t have it yet, check out this link for more information: http://go-next.co/nls.html
 
 Once you’ve installed the plugin and configured NLS, make sure that the pilot names match between what’s entered in RotorHazard in the 'Format' section and the pilot names in the app. It’s an easy step to verify but very important.
 
